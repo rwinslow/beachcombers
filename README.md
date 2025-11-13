@@ -1,6 +1,6 @@
 # Beachcombers
 
-Built off of Resolve Core.
+Built off of Resolve Core. https://github.com/rwinslow/resolve/tree/main
 
 * Supernatural, weird Florida in the 1990s
 * You play a supernaturally sensitive individual who works odd jobs to pay the bills. Your real calling is the weird and mysterious.
